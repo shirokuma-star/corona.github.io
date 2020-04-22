@@ -27,13 +27,18 @@ header {
 }
 
 .header-left {
+  float: left;
   margin-left: 60px;
   line-height: 60px;
 }
 
+.header-logo {
+  height: 60px;
+  width: 60px;
+}
+
 .header-right {
   float: right;
-  margin-top: -60px;
 }
 
 .header-right li {
