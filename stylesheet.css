@@ -35,6 +35,7 @@ header {
 .header-logo {
   height: 60px;
   width: 60px;
+  background-image: url(irus_corona.png);
 }
 
 .header-right {
