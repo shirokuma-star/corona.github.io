@@ -57,6 +57,32 @@ header {
   top: -35px;
 }
 
+.middle-wrapper {
+}
+
+.middle-container {
+  display: flex;
+  justify-content: center;
+}
+
+.air {
+
+}
+
+.touch {
+  display: inline-block
+}
+
+.last-container {
+  display: flex;
+  justify-content: center;
+}
+
+.call {
+  margin-right: 120px;
+}
+
+
 .bottom-list {
   padding: 0px 0px;
 }
