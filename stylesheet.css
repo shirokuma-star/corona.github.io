@@ -109,3 +109,9 @@ header {
 .bottom-list {
   padding: 0px 0px;
 }
+
+footer {
+  display: inline-block;
+  float: right;
+  margin-right: 80px;
+}
