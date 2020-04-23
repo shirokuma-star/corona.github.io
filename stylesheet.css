@@ -111,6 +111,7 @@ header {
 }
 
 footer {
+  display: inline-block;
   float: right;
   margin-right: 80px;
 }
